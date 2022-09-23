@@ -49,3 +49,8 @@ Add your own domain name and have it point to the running services (try adding a
 
 ##Elasticbeanstalk endpoint
  http://kehindeudagram-dev.us-east-1.elasticbeanstalk.com/
+
+##github repository url
+https://github.com/damkenny/Udacity_Cloud_Developer_Project_2
+
+
